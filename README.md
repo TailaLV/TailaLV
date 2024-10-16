@@ -1,4 +1,4 @@
-### Hello I´m Taila Vieira👋
+### Hello I´m Taila L.
 
 - 🌱 I’m currently learning Cyber security.
 - 🤔 I’m looking for new challenges.
