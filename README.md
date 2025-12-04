@@ -1,13 +1,11 @@
 ### Hello I´m Taila L.
 
-- 🌱 I’m currently learning Cyber security.
-- 🤔 I’m looking for new challenges.
-- ⚡ Fun fact: I love cats.
+- a Front End developer specialized in python, focused on Cybersecurity. I have strong experience with Web development and databases..
 
-[Taila Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=TailaLV&theme=github_light&show_icons=true) 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TailaLV&layout=compact&langs_count=7&theme=github_light)
-
-##
+### Main Skills
+- Web development
+- Python
+- SQL & Databases
     
 <div style="display: inline_block"><br>
   
