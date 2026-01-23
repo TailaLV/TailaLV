@@ -1,6 +1,6 @@
 ### Hello I´m Taila L.
 
-- a Front End developer specialized in python, focused on Cybersecurity. I have strong experience with Web development and databases..
+- a Full Stack developer specialized in Php, Python, MySQL, focused on Cybersecurity. I have strong experience with Web development and databases.
 
 ### Main Skills
 - Web development
