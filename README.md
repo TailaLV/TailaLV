@@ -4,6 +4,7 @@
 
 ### Main Skills
 - Web development
+- Php
 - Python
 - SQL & Databases
     
