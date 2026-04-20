@@ -8,19 +8,16 @@
 - Python
 - SQL & Databases
     
-<div align="center", display="inline">
-  
-  <img  alt="taila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="taila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img  alt="taila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="taila-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img alt="taila-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
- <img  alt="taila-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img  alt="taila-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-</div>
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,py,php,mysql" />
+  </a>
+</p> 
 
-<div> 
-     🌐 Socials: <br>
-    
-  <a href="https://instagram.com/tahig_h" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center">
+  <a href="https://github.com/Rafael-Nunes-Silva"></a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TailaLV&show_icons=true&include_all_commits=true&count_private=true&title_color=00EE00&text_color=EEEEEE&icon_color=0000EE&border_color=151515&bg_color=151515">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TailaLV&layout=compact&langs_count=20&title_color=00EE00&text_color=EEEEEE&icon_color=0000EE&border_color=151515&bg_color=151515">
+  <!--<img width="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rafael-Nunes-Silva&bg_color=151515&color=EEEEEE&line=0000EE&point=00EE00&area=true&area_color=0000EE&hide_border=true"/>-->
+  <img width="700px" src="https://github-readme-streak-stats.herokuapp.com?user=TailaLV&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=800&border=151515&stroke=00EE00&fire=EE0000&background=90%2C151515%2C0000FF">
 </div>
